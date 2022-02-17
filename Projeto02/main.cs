@@ -41,7 +41,7 @@ class Program {
     int id = int.Parse(Console.ReadLine());
     Console.Write("Informe a descrição: ");
     string descricao = Console.ReadLine();
-    // Instanciar a classe Espécia
+    // Instanciar a classe Espécie
     Especie obj =  new Especie(id, descricao);
     // Inserir a espécie no sistema
     Sistema.EspecieInserir(obj);
@@ -60,7 +60,7 @@ class Program {
     int id = int.Parse(Console.ReadLine());
     Console.Write("Informe a nova descrição: ");
     string descricao = Console.ReadLine();
-    // Instanciar a classe Espécia
+    // Instanciar a classe Espécie
     Especie obj =  new Especie(id, descricao);
     // Atualizar a espécie no sistema
     Sistema.EspecieAtualizar(obj);
