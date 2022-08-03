@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEspecie xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Especie>
+    <Id>1</Id>
+    <Descricao>Cachorro</Descricao>
+  </Especie>
+  <Especie>
+    <Id>2</Id>
+    <Descricao>Gato</Descricao>
+  </Especie>
+</ArrayOfEspecie>

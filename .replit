@@ -1,2 +1,2 @@
 0language = "bash"
-run = "mcs -out:main.exe 'Projeto08/main.cs' 'Projeto08/especie.cs' 'Projeto08/pet.cs' 'Projeto08/sistema.cs' 'Projeto08/cliente.cs' 'Projeto08/servico.cs' 'Projeto08/agendamento.cs'; mono main.exe"
+run = "mcs -out:main.exe 'Projeto09/main.cs' 'Projeto09/especie.cs' 'Projeto09/pet.cs' 'Projeto09/sistema.cs' 'Projeto09/cliente.cs' 'Projeto09/servico.cs' 'Projeto09/agendamento.cs' 'Projeto09/arquivo.cs'; mono main.exe"
